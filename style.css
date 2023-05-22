@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(184, 166, 221);
+    text-align: center;
+    color: antiquewhite;
+}
+a {
+    color:aqua
+}
+img {
+    width: 450px;
+    position: center;
+}
