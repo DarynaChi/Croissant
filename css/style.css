@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(221, 156, 96);
+    text-align: center;
+    color: rgb(246, 246, 246);
+    font-size: 20px;
+    margin: auto;
+    padding: 100px 60px 40px 60px;
+}
+a {
+    color:rgb(149, 65, 17);
+    position: center;
+}
+img {
+    width: 450px;
+    position: center;
+}
